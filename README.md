@@ -34,6 +34,6 @@ This repo shows us how to check the similarity between a Sentence(query) and par
 3. Run all the approaches and compare the results.
 FILES: Sentence-Paragraph Similarity.ipynb
 
-#Sentence Document Similarity
+# Sentence Document Similarity
 Document giving the best score on similarity index as according to different models (BM_25, TFIDF, Doc2Vec, WMD) will be the actual document from where the Sentence has been taken.
 FILES: Merged Document Similarity.ipynb
